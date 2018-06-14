@@ -1,4 +1,4 @@
-ar api = "https://api.npool.pw/bkc";
+var api = "https://api.npool.pw/bkc";
 
 var poolHost = "ca.npool.pw";
 
